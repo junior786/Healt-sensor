@@ -1,0 +1,4 @@
+chatgpt:
+  api:
+    baseUrl: https://api.openai.com/v1/chat/completions
+    key: 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
