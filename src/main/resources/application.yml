@@ -1,4 +1,5 @@
 chatgpt:
+  machine: gpt-3.5-turbo
   api:
     baseUrl: https://api.openai.com/v1/chat/completions
-    key: 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
+    key: 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
